@@ -18,7 +18,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="53" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="53" alt="css3 logo"  />
@@ -32,7 +32,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <a href="mailto:bruna.lopes@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FE428E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
