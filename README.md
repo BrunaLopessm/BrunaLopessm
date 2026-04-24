@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="176" src="https://media.tenor.com/C_P5PvT8xE8AAAAj/kumori-corner-peak.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/C_P5PvT8xE8AAAAj/kumori-corner-peak.gif"  />
 
 ###
 
