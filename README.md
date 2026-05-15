@@ -6,10 +6,10 @@
 
 ---
 
-<h1 align="center">👋 Olá, eu sou a Bruna</h1>
+<h1 align="center"> Olá, eu sou a Bruna</h1>
 
 <h3 align="center">
-🎓 Estudante de Engenharia de Software • 💻 Desenvolvedora Full Stack em formação
+ Estudante de Engenharia de Software •  Desenvolvedora Full Stack em formação
 </h3>
 
 ---
@@ -22,7 +22,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+##  Sobre mim
 
 ```yaml
 Nome: Bruna Lopes
@@ -39,7 +39,7 @@ Objetivo: Estágio em Tecnologia
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -49,7 +49,7 @@ Objetivo: Estágio em Tecnologia
 
 ---
 
-## 🔥 Sequência de contribuições
+##  Sequência de contribuições
 
 <div align="center">
 
@@ -59,7 +59,7 @@ Objetivo: Estágio em Tecnologia
 
 ---
 
-## 🌎 Redes & Contato
+##  Redes & Contato
 
 <div align="center">
 
@@ -75,7 +75,7 @@ Objetivo: Estágio em Tecnologia
 
 ---
 
-## 🐍 Contribuições
+##  Contribuições
 
 <div align="center">
 
