@@ -48,39 +48,11 @@ Busco desenvolver experiência prática através de projetos e oportunidades na 
 
 ---
 
-## Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## Sequência de contribuições
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## Atualmente estudando
-
-<div align="center">
-
-<img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=true&fill=6C63FF"/>
-
-<img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=true&fill=3B82F6"/>
-
-<img src="https://readme-components.vercel.app/api?component=logo&logo=dotnet&text=true&fill=6C63FF"/>
-
-<img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=true&fill=3B82F6"/>
 
 </div>
 
