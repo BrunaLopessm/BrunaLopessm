@@ -6,8 +6,6 @@
 
 ---
 
-<h1 align="center">Bruna Lopes</h1>
-
 <h3 align="center">
 Estudante de Engenharia de Software • Desenvolvedora Full Stack em formação
 </h3>
