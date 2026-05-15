@@ -48,16 +48,6 @@ Busco desenvolver experiência prática através de projetos e oportunidades na 
 
 ---
 
-## Sequência de contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## Contato
 
 <div align="center">
