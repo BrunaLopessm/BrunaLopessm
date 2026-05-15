@@ -49,18 +49,6 @@ Objetivo: Estágio em Tecnologia
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🔥 Sequência de contribuições
 
 <div align="center">
@@ -82,22 +70,6 @@ Objetivo: Estágio em Tecnologia
 <a href="mailto:brunaloopssm@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-## ✨ Atualmente estudando
-
-<div align="center">
-
-<img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=true&fill=6C63FF"/>
-
-<img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=true&fill=3B82F6"/>
-
-<img src="https://readme-components.vercel.app/api?component=logo&logo=dotnet&text=true&fill=6C63FF"/>
-
-<img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=true&fill=3B82F6"/>
 
 </div>
 
