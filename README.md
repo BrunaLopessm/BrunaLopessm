@@ -6,23 +6,23 @@
 
 ---
 
-<h1 align="center"> Olá, eu sou a Bruna</h1>
+<h1 align="center">Bruna Lopes</h1>
 
 <h3 align="center">
- Estudante de Engenharia de Software •  Desenvolvedora Full Stack em formação
+Estudante de Engenharia de Software • Desenvolvedora Full Stack em formação
 </h3>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=28&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+em+constante+evolução+🚀;HTML+•+CSS+•+JavaScript+•+React;C%23+.+NET+•+SQL+•+Banco+de+Dados"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=28&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)+ao+meu+GitHub;Desenvolvimento+Web;React+•+JavaScript+•+C%23+.NET;Tecnologia+e+Engenharia+de+Software"/>
 
 </div>
 
 ---
 
-##  Sobre mim
+## Sobre mim
 
 ```yaml
 Nome: Bruna Lopes
@@ -32,14 +32,13 @@ Foco: Desenvolvimento Web & Full Stack
 Objetivo: Estágio em Tecnologia
 ```
 
-- 🚀 Aprendendo e evoluindo diariamente na área de tecnologia
-- 💻 Desenvolvendo projetos com foco em Front-End e Full Stack
-- 📚 Estudando ReactJS, APIs REST, SQL e C# .NET
-- 🎯 Buscando minha primeira oportunidade na área tech
+Atualmente estudando desenvolvimento web e engenharia de software, com foco em HTML, CSS, JavaScript, React, SQL e C# .NET.
+
+Busco desenvolver experiência prática através de projetos e oportunidades na área de tecnologia.
 
 ---
 
-##  Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -49,7 +48,19 @@ Objetivo: Estágio em Tecnologia
 
 ---
 
-##  Sequência de contribuições
+## Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Sequência de contribuições
 
 <div align="center">
 
@@ -59,7 +70,23 @@ Objetivo: Estágio em Tecnologia
 
 ---
 
-##  Redes & Contato
+## Atualmente estudando
+
+<div align="center">
+
+<img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=true&fill=6C63FF"/>
+
+<img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=true&fill=3B82F6"/>
+
+<img src="https://readme-components.vercel.app/api?component=logo&logo=dotnet&text=true&fill=6C63FF"/>
+
+<img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=true&fill=3B82F6"/>
+
+</div>
+
+---
+
+## Contato
 
 <div align="center">
 
@@ -70,16 +97,6 @@ Objetivo: Estágio em Tecnologia
 <a href="mailto:brunaloopssm@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-##  Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
